@@ -1,6 +1,6 @@
 # Personagens com IA: 1 pessoa, 3 personagens
 
-> **Este guia mudou de casa.** Agora ele fica no [Kit IA](https://github.com/felipeoliveira-ai/kit-ia/tree/main/personagens-com-ia), junto com os guias dos outros vídeos. Esta página continua no ar, mas as atualizações vão para lá.
+> **Este guia mudou de casa.** Agora ele fica no [Vibe Coding](https://github.com/felipeoliveira-ai/vibe-coding/tree/main/personagens-com-ia), junto com os guias dos outros vídeos. Esta página continua no ar, mas as atualizações vão para lá.
 
 Eu gravei as falas no celular e virei astronauta, detetive e velho mestre. É assim que eu fiz. Preços e telas lidos em 04/11/2026.
 
